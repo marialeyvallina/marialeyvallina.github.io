@@ -5,6 +5,7 @@
 layout: page
 ---
 # 2021
+
 - **María Leyva-Vallina**, Nicola Strisciuglio, Nicolai Petkov, (2021), Generalized Contrastive Optimization of Siamese Networks for Place Recognition, _Under review_, [Paper](https://arxiv.org/abs/2103.06638), [Code](https://github.com/marialeyvallina/generalized_contrastive_loss) 
 
 # 2019
