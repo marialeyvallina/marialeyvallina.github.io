@@ -1,0 +1,15 @@
+- title: Email
+  url: mailto:marialeyvallina@gmail.com
+  icon: fas fa-envelope
+- title: Google Scholar
+  url: https://scholar.google.com/citations?user=lWaKY0QAAAAJ
+  icon: ai ai-google-scholar-square
+- title: GitHub
+  url: https://github.com/marialeyvallina
+  icon: fab fa-github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/mar%C3%ADa-leyva-vallina/
+  icon: fab fa-linkedin
+- title: Twitter
+  url: https://twitter.com/marialeyvallina
+  icon: fab fa-twitter
