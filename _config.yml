@@ -21,6 +21,8 @@
 title: María Leyva-Vallina, MSc
 #description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://marialeyvallina.github.io
+baseurl: ""
+
 avatar: /avatar.jpeg
 permalink: pretty
 cover_image: /bg_8.jpg
